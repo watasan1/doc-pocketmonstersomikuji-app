@@ -71,14 +71,14 @@ Next.js App Router の、基本的な機能と使い方について学習しま�
 
 ### 5. 推奨技術
 
-このプロジェクトの難易度と趣旨を踏まえて、以下の使用をお勧めします。
+このプロジェクトでは、以下の技術を使用することを推奨します。
 
-Next.js 15/ App Router
-TypeScript による型チェック
-Tailwind CSS によるスタイリング
-shadcn/ui によるコンポーネントの導入
-loading.tsx によるローディング制御
-PokeAPI を用いたポケモンデータの取得
+- **Next.js 15 / App Router** – 最新のルーティング構造を学習
+- **TypeScript** – 型安全な開発
+- **Tailwind CSS** – シンプルなスタイリング
+- **shadcn/ui** – UI コンポーネントの導入
+- **loading.tsx** – ローディング状態の制御
+- **PokeAPI** – ポケモンデータの取得
 
 ## 6. ToDo
 
