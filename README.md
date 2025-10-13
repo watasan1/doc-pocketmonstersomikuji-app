@@ -124,10 +124,18 @@
 
 ## 1.8 ToDo
 
-## Chapter 02: Next.js プロジェクトを作成する
-## Chapter 03: Tailwind CSS を導入する
-## Chapter 04: shadcn/ui を導入する
-## Chapter 05: PokeAPIからデータを取得するロジックを追加する
-## Chapter 06: トップページを実装する
-## Chapter 07: 詳細ページを実装する
-## Chapter 08: GitHub Pages にデプロイする
+## Chapter 02: [Next.js プロジェクトを作成する](#chapter-02-nextjs-プロジェクトを作成する)
+## Chapter 03: [Tailwind CSS を導入する](#chapter-03-tailwind-css-を導入する)
+## Chapter 04: [shadcn/ui を導入する](#chapter-04-shadcnui-を導入する)
+## Chapter 05: [PokeAPI からデータを取得するロジックを追加する](#chapter-05-pokeapi-からデータを取得するロジックを追加する)
+## Chapter 06: [トップページを実装する](#chapter-06-トップページを実装する)
+## Chapter 07: [詳細ページを実装する](#chapter-07-詳細ページを実装する)
+## Chapter 08: [GitHub Pages にデプロイする](#chapter-08-github-pages-にデプロイする)
+
+Chapter 02: Next.js プロジェクトを作成する
+Chapter 03: Tailwind CSS を導入する
+Chapter 04: shadcn/ui を導入する
+Chapter 05: PokeAPI からデータを取得するロジックを追加する
+Chapter 06: トップページを実装する
+Chapter 07: 詳細ページを実装する
+Chapter 08: GitHub Pages にデプロイする
