@@ -109,14 +109,14 @@
 
 ### 1.7 推奨技術
 
-- **Next.js 15 / App Router** – 最新のルーティング構造を学習
-- **TypeScript** – 型安全な開発
-- **Tailwind CSS** – シンプルで柔軟なスタイリング
-- **shadcn/ui** – 高品質なUI コンポーネントの導入
-- **loading.tsx** – ローディング状態の制御
-- **PokeAPI** – ポケモンデータの取得
+- **Next.js 15 / App Router**：最新のルーティング構造を学習する
+- **TypeScript**：型安全で保守性の高い開発を行う
+- **Tailwind CSS**：シンプルで柔軟なスタイリングを実現
+- **shadcn/ui**：高品質なUI コンポーネントを活用
+- **loading.tsx**：ローディング状態を制御する
+- **PokeAPI**：外部データを利用した動的コンテンツを構築
 
-※ 必要に応じて ESLint / Prettier なども導入すると開発体験が向上します
+※ 必要に応じて ESLint / Prettier などの開発支援ツールも導入すると良いです。
 
 ---
 
